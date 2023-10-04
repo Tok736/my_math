@@ -1,0 +1,3 @@
+[submodule "c_tests"]
+	path = c_tests
+	url = git@github.com:Tok736/c_tests.git
